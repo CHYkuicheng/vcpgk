@@ -1,0 +1,4 @@
+Source: astra_camera
+Version: 0.3.0
+Homepage: https://github.com/orbbec/ros_astra_camera
+Description:A ROS driver for Orbbec 3D cameras
